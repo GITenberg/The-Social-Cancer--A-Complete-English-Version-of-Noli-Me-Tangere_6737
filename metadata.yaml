@@ -1,5 +1,5 @@
 _repo: The-Social-Cancer--A-Complete-English-Version-of-Noli-Me-Tangere_6737
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Noli me tángere. English
 contributor:
   translator:
@@ -8,9 +8,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/4931
 covers:
 - cover_type: archival
-  image_path: 6737/6737-h/images/front-cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 6737-h/images/front-cover.jpg
 creator:
   author:
     agent_name: Rizal, José
@@ -25,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/José_Rizal
     - http://www.joserizal.ph/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6737#The-Social-Cancer--A-Complete-English-Version-of-Noli-Me-Tangere
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
